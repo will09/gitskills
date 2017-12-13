@@ -4,3 +4,4 @@ feature2
 feature3
 feature6
 feature7
+test
